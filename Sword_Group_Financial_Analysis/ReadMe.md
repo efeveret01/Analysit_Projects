@@ -13,15 +13,15 @@ The analysis answers key questions relevant to a **Business Analyst (Energy, Pub
 ---
 
 ## 📂 Project Structure
-This repository contains the following files:
+This repository contains the following MAIN files (with folders that contain the dataset and SQL Queries):
 
-- **`Sword_Group_H1_2025.pbix`**  
+- **`Financial_Analysis_Dashboard.pbix`**  
   Interactive Power BI report with sector revenue analysis, profitability trends, acquisition impact, and financial position dashboards.
 
-- **`Learning_Agenda.pdf`**  
+- **`Sword Group - Learning Agenda.pdf`**  
   A structured learning agenda with 7 analysis questions, rationale, and prompts for visualization in Google Sheets.
 
-- **`Executive_Summary.pptx`**  
+- **`Executive Presentation on Analysis.pptx`**  
   PowerPoint presentation with director-level insights, recommendations, and placeholders for key charts.
 
 - **`README.md`**  
