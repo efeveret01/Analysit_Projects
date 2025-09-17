@@ -1,4 +1,4 @@
-# Covid_Exploration_And_Visualization
+# Covid_19_Analysis_Project
 ## Overview
 
 This project explores and visualizes COVID-19 data using Microsoft SQL Server and Power BI.
